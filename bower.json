@@ -1,0 +1,33 @@
+{
+  "name": "generator-jquery-bootstrap-simple",
+  "authors": [
+    "Julian Sadowski"
+  ],
+  "description": "Simple jQuery & Bootstrap generator ready to develop/test js/html code.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0",
+    "morris.js": "^0.5.1",
+    "datatables": "^1.10.16",
+    "jquery-toast-plugin": "^1.3.2",
+    "owl.carousel": "^2.3.2",
+    "switchery": "^0.8.2",
+    "simpleWeather": "^3.1.0",
+    "moment": "^2.21.0",
+    "waypoints": "^4.0.1",
+    "jquery.counterup": "^2.1.0",
+    "sparkline": "jquery.sparkline#^2.1.2",
+    "sparklines": "^1.0.0"
+  }
+}
